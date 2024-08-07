@@ -1,0 +1,7 @@
+C:\Users\USER\Downloads\gg-git\mul\multiple\mul__table\mul__table\bin\Debug\mul__table.exe.config
+C:\Users\USER\Downloads\gg-git\mul\multiple\mul__table\mul__table\bin\Debug\mul__table.exe
+C:\Users\USER\Downloads\gg-git\mul\multiple\mul__table\mul__table\bin\Debug\mul__table.pdb
+C:\Users\USER\Downloads\gg-git\mul\multiple\mul__table\mul__table\obj\Debug\mul__table.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\gg-git\mul\multiple\mul__table\mul__table\obj\Debug\mul__table.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\gg-git\mul\multiple\mul__table\mul__table\obj\Debug\mul__table.exe
+C:\Users\USER\Downloads\gg-git\mul\multiple\mul__table\mul__table\obj\Debug\mul__table.pdb
